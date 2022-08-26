@@ -5,6 +5,7 @@ header {
     padding-left: 20px;
     font-family: 'Times New Roman', Times, serif;
     background-color: rgb(75, 168, 75);
+    /* border: 2px solid black; */
 }
 
 header h1 {
@@ -28,3 +29,26 @@ header nav ul li {
     margin-left: 25px;
     padding-top: 40px;
 }
+
+.banner img {
+    width: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
