@@ -1,0 +1,30 @@
+
+
+
+header {
+    padding-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(75, 168, 75);
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 50px;
+}
+
+header nav {
+    font-weight: bold;
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+    padding-top: 40px;
+}
